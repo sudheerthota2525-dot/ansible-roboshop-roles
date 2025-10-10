@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.0gworld.shop
+REDIS_HOST: redis.0gworld.shop
+CATALOGUE_HOST: catalogue.0gworld.shop
+CART_HOST: cart.0gworld.shop
+USER_HOST: user.0gworld.shop
+RABBITMQ_HOST: rabbitmq.0gworld.shop
+MYSQL_HOST: mysql.0gworld.shop
+SHIPPING_HOST: shipping.0gworld.shop
+PAYMENT_HOST: payment.0gworld.shop
