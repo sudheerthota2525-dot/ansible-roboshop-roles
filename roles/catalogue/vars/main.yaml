@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.0gworld.shop
+MONGODB_HOST: mongodb-{{ env }}0gworld.shop
